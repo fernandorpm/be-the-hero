@@ -3,9 +3,13 @@
 
 *Disclaimer: this Project is being developed by following the Rocketseat's Omnistack 11.0*.*
 
-**Last update: 01/04/2020**
+**Latest update: 03/04/2020**
 
-v 1.0.1
+**v 1.1.0 - Added Mobile App (03/04/2020)**
+
+###### v 1.0.1 - Added Frontend (01/04/2020)
+
+###### v 0.0.1 - Added Backend (30/03/2020)
 _________________________________________________
 
 
@@ -24,8 +28,11 @@ _________________________________________________
 - [x] Connect to API from Frontend
 - [x] Call routes
 
-**❌ Mobile version of the web app**
-- [ ] ...
+**✅ Mobile version of the web app**
+- [x] Design Interface
+- [x] Add functionality to the pages
+- [x] Connect to API from Mobile
+- [x] Send mail/whatsapp message to the community/non-governmental organizations
 
 **❌ Improved features**
 - [ ] ...
